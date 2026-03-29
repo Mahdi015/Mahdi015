@@ -1,12 +1,11 @@
 ### Hi there, I'm Mahdi - [My Portfolio][website] 👋
 
-## I'm a Junior Web Developer!!
+## I'm a Full Stack Developer from Sfax, Tunisia.
 
-- 🔭 I just graduated from ISIMA and got my bachelor degree
-- 🌱 I’m currently learning everything abou MERN stack
-- 👯 I’m looking to start job or internship experience to put all my skills and knowledge i've learned
-- 🥅 2022 Goals: Master ReactJS/NodeJS, Being on new development adventure
-- ⚡ Interests: Gaming(Game Development but my i have potato PC🤣), Volunteer work
+I've spent the last 3 years building web and mobile apps. I'm most at home with Vue.js, React Native, and NestJS, but I'll pick whatever tool gets the job done right.
+By day I work at Tekab Dev, shipping features, wiring up APIs, and occasionally fighting Docker into submission. Before that, I did freelance work — which taught me how to talk to clients, scope projects, and deliver without hand-holding.
+I care about clean code, good UX, and not overcomplicating things.
+🛠️ Stack I reach for most: Vue 3 · NestJS · React Native · PostgreSQL · Tailwind
 
 ### Connect with me:
 
